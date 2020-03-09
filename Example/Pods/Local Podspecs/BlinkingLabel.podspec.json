@@ -1,0 +1,22 @@
+{
+  "name": "BlinkingLabel",
+  "version": "0.1.0",
+  "summary": "",
+  "description": "",
+  "homepage": "https://github.com/pacozaa/BlinkingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pacozaa": "pacosarin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pacozaa/BlinkingLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BlinkingLabel/Classes/**/*"
+}
